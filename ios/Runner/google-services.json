@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975116298965",
+    "firebase_url": "https://galiciabebe-d4384.firebaseio.com",
+    "project_id": "galiciabebe-d4384",
+    "storage_bucket": "galiciabebe-d4384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975116298965:android:7f2029d8b756069bd0105c",
+        "android_client_info": {
+          "package_name": "com.hakim.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975116298965-uthsv4v88kjqdjb5dl91ghq5i8l0p6ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VCpn0FftWhr4-ZkXd0Exw6Qmc3nGSl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975116298965-uthsv4v88kjqdjb5dl91ghq5i8l0p6ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
